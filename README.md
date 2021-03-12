@@ -2,7 +2,7 @@
 Lists of good resources I have been finding in as I take this iOS journey 
 
 ### The Language
-1. **Swift Language Guide** - [https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html](url)
+1. **Swift Language Guide** - https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html
 2. **Language Tutorial Site** - [https://www.hackingwithswift.com](url) 
 
 ### SwiftUI 

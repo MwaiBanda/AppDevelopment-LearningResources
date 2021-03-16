@@ -1,5 +1,7 @@
 import UIKit
-
+/// Difference between class and structs 
+/// Classes = passed by reference
+/// Structs = passed by Value
 class person {
     var name = "Mwai"
 }
